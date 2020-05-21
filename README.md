@@ -14,6 +14,7 @@ W obecnej sytuacji policji otrzymał kolejne obowiązki. Czy może to być przyc
 
 ![](plots/police/4_2_Interwencje.png)
 
+---
 
 ![](plots/police/6_2_Interwencje.png)
 
@@ -35,11 +36,17 @@ Podobnie jak w przypadku interwencji - widoczny jest spadek wraz z wprowadzaniem
 </div>
 
 ![](plots/police/4_2_Wypadki_drogowe.png)
+
 ---
+
 ![](plots/police/6_2_Wypadki_drogowe.png)
+
 ---
+
 ![](plots/police/4_2_Ranni_w_wypadkach.png)
+
 ---
+
 ![](plots/police/6_2_Ranni_w_wypadkach.png)
 
 
