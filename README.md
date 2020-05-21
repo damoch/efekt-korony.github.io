@@ -1,4 +1,4 @@
-## Wpływ koronawirusa na zachowanie Polaków -- *Strona w budowie!*
+## *Strona w budowie!* -- Wpływ koronawirusa na zachowanie Polaków -- *Strona w budowie!*
 
 <div style="text-align: justify">
 <!-- Jesteśmy grupą studentów, których zainteresował wpływ aktualnie panującej pandemii i nałożonych obostrzeń na społeczeństwo. -->
@@ -51,12 +51,14 @@ Można również zaobserwować zmiany w zachowaniu użytkowników - wzrosło zai
 Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
 
 <p align="center">
-  <img src="./plots/twitter/MZ_GOV_PL_tweets.png" width=38% height=38%>
-  <img src="./plots/twitter/MZ_GOV_PL_likes.png" width=40% height=40%>
+    <img src="./plots/twitter/MZ_GOV_PL_tweets.png" width=38% height=38%>
+    <img src="./plots/twitter/MZ_GOV_PL_likes.png" width=40% height=40%>
 </p>
 
-<!-- ![](plots/twitter/MZ_GOV_PL_tweets.png)
-![](plots/twitter/MZ_GOV_PL_likes.png) -->
+
+
+![](plots/twitter/MZ_GOV_PL_tweets.png)
+![](plots/twitter/MZ_GOV_PL_likes.png)
 
 
 <!-- todo -->
