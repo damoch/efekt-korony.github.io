@@ -13,6 +13,8 @@ W obecnej sytuacji policji otrzymał kolejne obowiązki. Czy może to być przyc
 </div>
 
 ![](plots/police/4_2_Interwencje.png)
+
+
 ![](plots/police/6_2_Interwencje.png)
 
 
@@ -22,7 +24,9 @@ Jak wyglądają statystyki policyjne w kontekście przemieszczania się? Na szcz
 </div>
 
 ![](plots/police/1_1_Wypadki_drogowe.png)
+
 ![](plots/police/1_1_Ranni_w_wypadkach.png)
+
 ![](plots/police/1_1_Zabici_w_wypadkach.png)
 
 <div style="text-align: justify">
@@ -31,9 +35,11 @@ Podobnie jak w przypadku interwencji - widoczny jest spadek wraz z wprowadzaniem
 </div>
 
 ![](plots/police/4_2_Wypadki_drogowe.png)
-![](plots/police/6_2_Wypadki_drogowe.png)
 
+![](plots/police/6_2_Wypadki_drogowe.png)
+---
 ![](plots/police/4_2_Ranni_w_wypadkach.png)
+
 ![](plots/police/6_2_Ranni_w_wypadkach.png)
 
 
@@ -57,8 +63,8 @@ Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
 
 
 
-![](plots/twitter/MZ_GOV_PL_tweets.png)
-![](plots/twitter/MZ_GOV_PL_likes.png)
+<!-- ![](plots/twitter/MZ_GOV_PL_tweets.png)
+![](plots/twitter/MZ_GOV_PL_likes.png) -->
 
 
 <!-- todo -->
