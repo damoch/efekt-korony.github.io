@@ -51,8 +51,8 @@ Można również zaobserwować zmiany w zachowaniu użytkowników - wzrosło zai
 Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
 
 <p align="center">
-  <img src="plots/twitter/MZ_GOV_PL_tweets.png" width=38% height=38%>
-  <img src="plots/twitter/MZ_GOV_PL_likes.png" width=40% height=40%>
+  <img src="./plots/twitter/MZ_GOV_PL_tweets.png" width=38% height=38%>
+  <img src="./plots/twitter/MZ_GOV_PL_likes.png" width=40% height=40%>
 </p>
 
 <!-- ![](plots/twitter/MZ_GOV_PL_tweets.png)
@@ -65,9 +65,9 @@ Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
 ![](plots/twitter/MZ_GOV_PL_tweets.png)
 ![](plots/twitter/MZ_GOV_PL_likes.png) -->
 
-## tmp
+<!-- ## tmp
 <div style="text-align: justify">
-</div>
+</div> -->
 
 
 ## Chcesz wiedzieć więcej?
