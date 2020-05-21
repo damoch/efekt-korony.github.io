@@ -35,11 +35,11 @@ Podobnie jak w przypadku interwencji - widoczny jest spadek wraz z wprowadzaniem
 </div>
 
 ![](plots/police/4_2_Wypadki_drogowe.png)
-
+---
 ![](plots/police/6_2_Wypadki_drogowe.png)
 ---
 ![](plots/police/4_2_Ranni_w_wypadkach.png)
-
+---
 ![](plots/police/6_2_Ranni_w_wypadkach.png)
 
 
@@ -56,15 +56,13 @@ Można również zaobserwować zmiany w zachowaniu użytkowników - wzrosło zai
 
 Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
 
-<p align="center">
+<!-- <p align="center">
     <img src="./plots/twitter/MZ_GOV_PL_tweets.png" width=38% height=38%>
     <img src="./plots/twitter/MZ_GOV_PL_likes.png" width=40% height=40%>
-</p>
+</p> -->
 
-
-
-<!-- ![](plots/twitter/MZ_GOV_PL_tweets.png)
-![](plots/twitter/MZ_GOV_PL_likes.png) -->
+![](plots/twitter/MZ_GOV_PL_tweets.png)
+![](plots/twitter/MZ_GOV_PL_likes.png)
 
 
 <!-- todo -->
