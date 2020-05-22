@@ -1,4 +1,4 @@
-## *Strona w budowie!* -- Wpływ koronawirusa na zachowanie Polaków -- *Strona w budowie!*
+## Wpływ koronawirusa na zachowanie Polaków
 
 <div style="text-align: justify">
 <!-- Jesteśmy grupą studentów, których zainteresował wpływ aktualnie panującej pandemii i nałożonych obostrzeń na społeczeństwo. -->
