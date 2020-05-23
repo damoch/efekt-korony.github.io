@@ -7,8 +7,8 @@ Jak pandemia wpływa na pewne aspekty życia społecznego? Czy i na którym etap
 
 ## Czy policja ma mniej pracy?
 <div style="text-align: justify">
-Państwo Polskie w odpowiedzi na obecną sytuację wprowadziło ograniczenia wpływające na codzienne życie społeczeństwa. Wszystkie media przekazywały apele o pozostanie w domach i ograniczenie przemieszczania się.
-W obecnej sytuacji policji otrzymał kolejne obowiązki. Czy może to być przyczyną zmian w statystykach?
+Państwo Polskie w odpowiedzi na obecną sytuację wprowadziło ograniczenia wpływające na życie codzienne społeczeństwa. Wszystkie media przekazywały apele o pozostanie w domach i ograniczenie przemieszczania się.
+W obecnej sytuacji policja otrzymała nowe obowiązki, związane z koronawirusem. Czy może to być przyczyną zmian w statystykach?
 <!-- Czy służby oddelegowane np. do kontroli osób podjętych kwarantannie -->
 </div>
 
@@ -58,7 +58,7 @@ Podobnie jak w przypadku interwencji - widoczny jest spadek wraz z wprowadzaniem
 ## Co z zachowaniem w mediach społecznościowych?
 <div style="text-align: justify">
 Czy przymus siedzenia w domu wpłynął na zwiększenie aktywności profili rządowych? Wszystko wskazuje na to, że częstotliwość publikacji wpisów wzrosła w najbardziej burzliwym czasie.
-Można również zaobserwować zmiany w zachowaniu użytkowników - wzrosło zainteresowanie wpisami rządowymi. Największy pik zainteresowania przypada na dzień zamknięcia granic Polski.
+Można również zaobserwować zmiany w zachowaniu użytkowników - wzrosło zainteresowanie wpisami rządowymi. Największe zainteresowanie jest związane z ogłoszeniem zamknięcia granic Polski.
 </div>
 
 Profil Ministerstwa Zdrowia [@MZ_GOV_PL](https://twitter.com/MZ_GOV_PL)
